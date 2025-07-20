@@ -1,3 +1,5 @@
-print ("Welcome to Git Assignment")
-print ("My name is Stas")
+print("Hi from Stas")
+from datetime import datetime
+print(datetime.now())
+
 
